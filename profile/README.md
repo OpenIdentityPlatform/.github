@@ -9,4 +9,4 @@
 | [3A Systems, LLC ](https://support.3a-systems.ru/)   |  support@3a-systems.ru |
 
 Join us
-> Please [create a request](https://github.com/OpenIdentityPlatform/.github/issues/new)
+> Please create [approved vendor request]([https://github.com/OpenIdentityPlatform/.github/issues/new](https://github.com/OpenIdentityPlatform/.github/issues/new?assignees=&labels=&projects=&template=approved-vendor-request.md&title=Add+approved+vendor%3A+%5Bcompany+name%5D))
