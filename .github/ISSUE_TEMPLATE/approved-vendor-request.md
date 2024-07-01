@@ -8,13 +8,13 @@ assignees: ''
 ---
 
 **Company name**
-Provide company name 
+Provide the company name 
 
 **WEB site**
-Provide company web site
+Provide the company website
 
-**EMail**
+**Email**
 Provide company email address for support requests
 
 **Company experience**
- Describe the company's experience in implementing and using the products
+Describe the company's experience in implementing and using the products
