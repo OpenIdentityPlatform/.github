@@ -3,7 +3,7 @@
 
 # Approved Vendor List
 
-| Company                                              | Email                  | 
+| Company                                              | Email for RFP          | 
 |------------------------------------------------------|------------------------|
 | [Orchitech Solutions, s.r.o.](https://orchi.tech/en) |  info@orchitech.cz     |
 | [3A Systems, LLC ](https://support.3a-systems.ru/)   |  support@3a-systems.ru |
