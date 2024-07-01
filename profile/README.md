@@ -1,7 +1,7 @@
 ![Open Identity Platform](https://www.openidentityplatform.org/assets/img/oip-star.png)
 
 
-# Authorized list of vendors
+# Approved Vendor List
 
 | Company                                              | Email                  | 
 |------------------------------------------------------|------------------------|
