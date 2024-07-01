@@ -1,7 +1,7 @@
 ---
 name: Approved vendor request
 about: Describe this vendor request
-title: "[vendor request]"
+title: "Add approved vendor: [company name]"
 labels: ''
 assignees: ''
 
