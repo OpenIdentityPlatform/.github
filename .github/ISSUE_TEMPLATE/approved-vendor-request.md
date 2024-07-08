@@ -1,20 +1,20 @@
 ---
 name: Approved vendor request
 about: Describe this vendor request
-title: "Add approved vendor: [company name]"
-labels: ''
+title: "New approved vendor: [company name]"
+labels: 'support,commercial'
 assignees: ''
 
 ---
 
-**Company name**
+# Company name
 Provide the company name 
 
-**WEB site**
+## WEB site
 Provide the company website
 
-**Email**
+## Email
 Provide company email address for support requests
 
-**Company experience**
+## Company experience
 Describe the company's experience in implementing and using the products
