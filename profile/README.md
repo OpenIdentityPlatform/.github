@@ -4,4 +4,4 @@
 [![Pro Services](https://img.shields.io/badge/💪-PRO_Services-green)](https://github.com/OpenIdentityPlatform/.github/wiki/Approved-Vendor-List)
 [![Ideas](https://img.shields.io/badge/💡-Ideas-violet)](https://github.com/orgs/OpenIdentityPlatform/discussions/5)
 
-[![Sponsors](https://opencollective.com/OpenIdentityPlatform/sponsors.svg?width=890)](https://opencollective.com/OpenIdentityPlatform)
+[![Sponsors](https://opencollective.com/OpenIdentityPlatform/sponsors.svg?width=891)](https://opencollective.com/OpenIdentityPlatform)
